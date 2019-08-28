@@ -1,0 +1,11 @@
+c:\Users\lenovo\Desktop\设计模式分享\3_组合模式\组合模式-公司管理\obj\Debug\netcoreapp2.1\组合模式-公司管理.csprojAssemblyReference.cache
+c:\Users\lenovo\Desktop\设计模式分享\3_组合模式\组合模式-公司管理\obj\Debug\netcoreapp2.1\组合模式-公司管理.csproj.CoreCompileInputs.cache
+c:\Users\lenovo\Desktop\设计模式分享\3_组合模式\组合模式-公司管理\obj\Debug\netcoreapp2.1\组合模式-公司管理.AssemblyInfoInputs.cache
+c:\Users\lenovo\Desktop\设计模式分享\3_组合模式\组合模式-公司管理\obj\Debug\netcoreapp2.1\组合模式-公司管理.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\设计模式分享\3_组合模式\组合模式-公司管理\bin\Debug\netcoreapp2.1\组合模式-公司管理.deps.json
+C:\Users\lenovo\Desktop\设计模式分享\3_组合模式\组合模式-公司管理\bin\Debug\netcoreapp2.1\组合模式-公司管理.runtimeconfig.json
+C:\Users\lenovo\Desktop\设计模式分享\3_组合模式\组合模式-公司管理\bin\Debug\netcoreapp2.1\组合模式-公司管理.runtimeconfig.dev.json
+c:\Users\lenovo\Desktop\设计模式分享\3_组合模式\组合模式-公司管理\bin\Debug\netcoreapp2.1\组合模式-公司管理.dll
+c:\Users\lenovo\Desktop\设计模式分享\3_组合模式\组合模式-公司管理\bin\Debug\netcoreapp2.1\组合模式-公司管理.pdb
+c:\Users\lenovo\Desktop\设计模式分享\3_组合模式\组合模式-公司管理\obj\Debug\netcoreapp2.1\组合模式-公司管理.dll
+c:\Users\lenovo\Desktop\设计模式分享\3_组合模式\组合模式-公司管理\obj\Debug\netcoreapp2.1\组合模式-公司管理.pdb

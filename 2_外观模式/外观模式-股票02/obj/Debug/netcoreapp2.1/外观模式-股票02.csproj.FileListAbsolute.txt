@@ -1,0 +1,11 @@
+C:\Users\lenovo\Desktop\设计模式分享\2_外观模式\外观模式-股票02\bin\Debug\netcoreapp2.1\外观模式-股票02.deps.json
+C:\Users\lenovo\Desktop\设计模式分享\2_外观模式\外观模式-股票02\bin\Debug\netcoreapp2.1\外观模式-股票02.runtimeconfig.json
+C:\Users\lenovo\Desktop\设计模式分享\2_外观模式\外观模式-股票02\bin\Debug\netcoreapp2.1\外观模式-股票02.runtimeconfig.dev.json
+c:\Users\lenovo\Desktop\设计模式分享\2_外观模式\外观模式-股票02\bin\Debug\netcoreapp2.1\外观模式-股票02.dll
+c:\Users\lenovo\Desktop\设计模式分享\2_外观模式\外观模式-股票02\bin\Debug\netcoreapp2.1\外观模式-股票02.pdb
+c:\Users\lenovo\Desktop\设计模式分享\2_外观模式\外观模式-股票02\obj\Debug\netcoreapp2.1\外观模式-股票02.csprojAssemblyReference.cache
+c:\Users\lenovo\Desktop\设计模式分享\2_外观模式\外观模式-股票02\obj\Debug\netcoreapp2.1\外观模式-股票02.csproj.CoreCompileInputs.cache
+c:\Users\lenovo\Desktop\设计模式分享\2_外观模式\外观模式-股票02\obj\Debug\netcoreapp2.1\外观模式-股票02.AssemblyInfoInputs.cache
+c:\Users\lenovo\Desktop\设计模式分享\2_外观模式\外观模式-股票02\obj\Debug\netcoreapp2.1\外观模式-股票02.AssemblyInfo.cs
+c:\Users\lenovo\Desktop\设计模式分享\2_外观模式\外观模式-股票02\obj\Debug\netcoreapp2.1\外观模式-股票02.dll
+c:\Users\lenovo\Desktop\设计模式分享\2_外观模式\外观模式-股票02\obj\Debug\netcoreapp2.1\外观模式-股票02.pdb
