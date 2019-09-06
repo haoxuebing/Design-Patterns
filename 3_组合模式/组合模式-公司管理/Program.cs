@@ -56,6 +56,7 @@ namespace 组合模式_公司管理
 
     }
 
+    //有形的公司
     class ConcreteCompany : Company
     {
         private List<Company> children = new List<Company>();
